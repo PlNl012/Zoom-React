@@ -1,0 +1,19 @@
+updated to 3.8.0
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Jul 1 09:49:20 2024 -0600
+#
+# interactive rebase in progress; onto ccb496a
+# Last command done (1 command done):
+#    edit 4a92a58 updated to 3.8.0
+# Next commands to do (9 remaining commands):
+#    edit 694b32a updated to 3.8.5
+#    edit b8f87ea feat: use vite
+# You are currently editing a commit while rebasing branch 'master' on 'ccb496a'.
+#
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#
